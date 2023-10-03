@@ -1,0 +1,1 @@
+the Exec keyword used in the sql stored procedure calls is used to allow us to execute the stored Procedure as many times as we want without any errors, otherwise, without exec keyword, we need to run each statement in a separate transaction and that consumes alot of time 

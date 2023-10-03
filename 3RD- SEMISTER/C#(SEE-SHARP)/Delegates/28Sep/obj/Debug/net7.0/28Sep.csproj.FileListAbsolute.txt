@@ -1,0 +1,15 @@
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/bin/Debug/net7.0/28Sep
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/bin/Debug/net7.0/28Sep.deps.json
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/bin/Debug/net7.0/28Sep.runtimeconfig.json
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/bin/Debug/net7.0/28Sep.dll
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/bin/Debug/net7.0/28Sep.pdb
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.csproj.AssemblyReference.cache
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.GeneratedMSBuildEditorConfig.editorconfig
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.AssemblyInfoInputs.cache
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.AssemblyInfo.cs
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.csproj.CoreCompileInputs.cache
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.dll
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/refint/28Sep.dll
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.pdb
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/28Sep.genruntimeconfig.cache
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Delegates/28Sep/obj/Debug/net7.0/ref/28Sep.dll

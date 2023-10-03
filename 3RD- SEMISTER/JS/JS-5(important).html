@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+<body>
+    <script>
+        /*
+        php array funcs are used with different approach
+        
+        php :
+        array_push  
+        
+        js:
+        let a=[];
+        a.push(items)
+        
+        this is the syntax for js and most functions are named same and can be called by this approach
+
+        Javascript array functions(aka methods) mostly use callback functions, these methods iterate over each element and then call that function and then these methods automatically put the value of current element inside the callback function params and then we can process it further inside the function to evaluate things we like 
+
+        those methods which iterate and compare each element of an array based on a condition in a callback,
+        they only use numbers, on very few methods we will get strings as ouptut but mostly numbers or boolean will be the output
+       */
+        let a=[
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+        ];
+        let b=[
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+        ];
+        let c=a.concat(b);
+        // document.write(c+"<br><br>");
+        
+        //this changes separator from comma to anything you like
+        // c=c.join("&nbsp;");
+
+
+        /*
+        this will extract a part of array via given starting or ending point
+        we can also give only starting/ending and leave the other undefined
+        */
+        //let d=c.slice(0,3);
+        //document.write(d);
+
+
+        /*
+        This function doesnt return an array but modifies the current array which is targeted
+        */
+        //c.splice(-1,0,"heloworld");
+        //document.write(c);
+
+
+        /*
+        this will return a boolean
+        */
+        //lol="";
+        //let nine=Array.isArray(lol);
+        //document.write(nine);
+
+
+        /*
+        This will return the index of the search element from the target array
+        we can also defined starting point from negative or positive and it is optional
+        */
+        // lmao=c.indexOf(4);
+        // document.write(c[lmao]);//double check for value
+
+
+        /*
+        This will ret a bool if the the array includes the value
+        we give  search value on first param and starting point on second param
+        */
+        // kaddiWich=c.includes("c",0);
+        // document.write(kaddiWich);
+
+
+        /*
+        This arrau method also iterates over an array and checks the conditon in the given function , if the condition is true in any element, this function will return a true and if it the condition isnt met by any element of an  array then this will return false
+        */
+        // let lmao=c.some(
+        //     (element)=>{
+        //         // return element >= 1; // This will return true if condition becomes true for any element of an array 
+        //         // return element >= 99; //false 
+        //         // return element <= 1; // true  
+        //         return element < 1; // false  
+        // });
+        // document.write(lmao);
+
+
+        /*
+         *this array function iterates over an array and checks if every element of the array meets the given condition based on the callback/normal function put inside params
+        */
+    //    c=[1,2,3,4,5,6,7,8,9,0];
+    //    let rofl=c.every((element)=>{
+    //     return element < 10; //true
+    //     return element > 10; //false
+    //    })
+    //    document.write(rofl);
+    /**
+     * this function iterates over an array and returns the first value which satisfies the condition in callback then stops the iteration 
+     * find(): returns element
+     * findIndex(): returns index
+    **/
+    // let hui=c.find((number)=> {
+    //     return number > 0;// output 1
+    //     return number > 1;// output 2
+    // });
+    // document.write(hui); 
+
+
+
+
+    /*
+    This will iterate and evaluate the conditon in the callback and filter out and extract the elements which satisfy the condition in the callback and create a new array and place those elements in the order of extraction
+    */
+    // let lol=c.filter((number)=>{
+    //     return number <= 5;//output: 1,2,3,4,5
+    // })
+    // document.write(lol);
+
+
+
+    /*
+    No explaination required
+    */
+    // let d=c.toString();
+    // document.write(Array.isArray(d));
+    /*
+    this will evaluate to false because now it isnt an array
+    when we try to use array functions on the new variable, the intellisense will only show string functions 
+    because it is a string 
+    */
+
+
+
+
+    /*
+    This fills a static value into every element of an array
+    */
+    // c.fill("lmao");
+    // document.write(c);
+
+
+
+    /*
+    we did this in php:
+    echo "Hello My name is $name";
+    
+    in js:
+    */
+    //    let name="muneeb";
+    //    document.write(`Hello there my name is ${name}`)
+
+
+
+    /*
+    this will sort the array, by default this sorts numbers first then alphabets
+    */
+    // c.sort();
+    // document.write(c);
+
+    /*
+    this will reverse the array
+    */
+    // c.reverse();
+    // document.write(c);
+    
+
+    /*
+    pop and push target last element of an array
+    pop removes the last element and push inserts a new element after the last element of an array
+    */
+    // c.pop();
+    // c.push("hello");
+    // document.write(c);
+    
+    /*
+    similarly,
+    shift is opposite of pop 
+    unshift is opposite of push
+    */
+    // c.shift();
+    // c.unshift("hello");
+    // document.write(c);
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Complete C#/Program/obj/Debug/.net5.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Complete C#/Program/obj/Debug/.net5.0/Program.AssemblyInfoInputs.cache
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Complete C#/Program/obj/Debug/.net5.0/Program.AssemblyInfo.cs
+/home/muneeb/Desktop/coding/3RD- SEMISTER/C#(SEE-SHARP)/Complete C#/Program/obj/Debug/.net5.0/Program.csproj.CoreCompileInputs.cache

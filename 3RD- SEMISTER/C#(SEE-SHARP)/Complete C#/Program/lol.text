@@ -1,0 +1,47 @@
+.
+├── bin
+│   └── Debug
+│       ├── net7.0
+│       │   ├── Program
+│       │   ├── Program.deps.json
+│       │   ├── Program.dll
+│       │   ├── Program.pdb
+│       │   └── Program.runtimeconfig.json
+│       └── net8.0
+├── lol.text
+├── obj
+│   ├── Debug
+│   │   ├── net7.0
+│   │   │   ├── apphost
+│   │   │   ├── Program.AssemblyInfo.cs
+│   │   │   ├── Program.AssemblyInfoInputs.cache
+│   │   │   ├── Program.assets.cache
+│   │   │   ├── Program.csproj.AssemblyReference.cache
+│   │   │   ├── Program.csproj.CoreCompileInputs.cache
+│   │   │   ├── Program.csproj.FileListAbsolute.txt
+│   │   │   ├── Program.dll
+│   │   │   ├── Program.GeneratedMSBuildEditorConfig.editorconfig
+│   │   │   ├── Program.genruntimeconfig.cache
+│   │   │   ├── Program.GlobalUsings.g.cs
+│   │   │   ├── Program.pdb
+│   │   │   ├── ref
+│   │   │   │   └── Program.dll
+│   │   │   └── refint
+│   │   │       └── Program.dll
+│   │   └── net8.0
+│   │       ├── Program.AssemblyInfo.cs
+│   │       ├── Program.AssemblyInfoInputs.cache
+│   │       ├── Program.assets.cache
+│   │       ├── Program.GeneratedMSBuildEditorConfig.editorconfig
+│   │       ├── Program.GlobalUsings.g.cs
+│   │       ├── ref
+│   │       └── refint
+│   ├── Program.csproj.nuget.dgspec.json
+│   ├── Program.csproj.nuget.g.props
+│   ├── Program.csproj.nuget.g.targets
+│   ├── project.assets.json
+│   └── project.nuget.cache
+├── Program.cs
+└── Program.csproj
+
+13 directories, 32 files

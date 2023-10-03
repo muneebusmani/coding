@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "3.0.1"
+  },
+  "dependencies": {
+    "darkreader": "^4.9.58"
+  }
+}
