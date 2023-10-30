@@ -1,0 +1,40 @@
+﻿@model Sir_Faizan_Method.Models.SirFaizanMethodTable
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div>
+    <div class="col-md-8 mx-auto my-5 text-center">
+        <h1 class="">Details</h1>
+        <hr />
+        <dl class="row display-3">
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Name)
+                <span>:</span>
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Age)
+                <span>:</span>
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Age)
+            </dd>
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Height)
+                <span>:</span>
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Height)
+            </dd>
+        </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input style="width:45%" type="submit" value="Delete" class="btn btn-danger" />
+        <a style="width:45%" class="btn btn-outline-info" asp-action="Read">Back to List</a>
+    </form>
+</div>

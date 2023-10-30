@@ -1,4 +1,0 @@
-C:\Users\Muneeb Usmani\source\repos\Functions\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Muneeb Usmani\source\repos\Functions\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
-C:\Users\Muneeb Usmani\source\repos\Functions\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
-C:\Users\Muneeb Usmani\source\repos\Functions\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache

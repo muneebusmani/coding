@@ -1,0 +1,15 @@
+C:\Users\munee\source\repos\coding\3\c#\leetcode\bin\Debug\net8.0\leetcode.exe
+C:\Users\munee\source\repos\coding\3\c#\leetcode\bin\Debug\net8.0\leetcode.deps.json
+C:\Users\munee\source\repos\coding\3\c#\leetcode\bin\Debug\net8.0\leetcode.runtimeconfig.json
+C:\Users\munee\source\repos\coding\3\c#\leetcode\bin\Debug\net8.0\leetcode.dll
+C:\Users\munee\source\repos\coding\3\c#\leetcode\bin\Debug\net8.0\leetcode.pdb
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.AssemblyInfoInputs.cache
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.AssemblyInfo.cs
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.csproj.CoreCompileInputs.cache
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.sourcelink.json
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.dll
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\refint\leetcode.dll
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.pdb
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\leetcode.genruntimeconfig.cache
+C:\Users\munee\source\repos\coding\3\c#\leetcode\obj\Debug\net8.0\ref\leetcode.dll

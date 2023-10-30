@@ -1,0 +1,41 @@
+﻿@model Sir_Faizan_Method.Models.SirFaizanMethodTable
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="row" style="margin-top:15vh">
+    <div class="col-md-4 my-0 mx-auto">
+        <h1 class="text-center">Edit</h1>
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="control-label mb-2"></label>
+                <input  asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Age" class="control-label mb-2"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Height" class="control-label mb-2"></label>
+                <input asp-for="Height" class="form-control" />
+                <span asp-validation-for="Height" class="text-danger"></span>
+            </div>
+            <div class="mb-3 text-center">
+                <input type="submit" value="Save" class="btn btn-primary" style="width:49%" />
+                <a asp-action="Read" class="btn btn-outline-info" style="width:49%">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

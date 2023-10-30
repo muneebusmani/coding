@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--<input type="text" id="btn">-->
+    <input type="button" id="btn" value="clickMe">
+
+
+    <script>
+        const btn = document.getElementById("btn");
+        const triggerEvent = (element, eventName, message) => {
+            element.addEventListener(eventName, () => {
+                alert(message);
+            });
+        }
+        //triggerEvent(btn, "dblclick", "Hello World!");
+        //triggerEvent(btn, "click", "Hello World!");
+        //triggerEvent(btn, "scroll", "Hello World!");
+        btn.addEventListener(
+            //"wheel",
+            //"dblclick",
+            "click",
+            //"scroll",
+            //"copy", //This will work on text
+            //"focusout",//This will work when you focus on this element and when you focus on another element after focusing this element
+            //"focusin",//This will work when you focus this element
+            //"focusout",//This will work when you focus on another element after focusing on current element
+            //"input",//this will work when you do input in the current element
+            // "keypress",//when you use keyboard after focusing on this 
+            () => {
+                alert("you did input")
+        });
+
+
+
+
+
+
+        //let eventName, message;
+        //let events = [eventName, message];
+        //events[0] = prompt("enter your event name");
+        //events[1] = prompt("Your Message");
+        //btn.addEventListener(events[0],()=>{alert(events[1
+        /* 
+            List of currently available events in js:
+            Mouse events: 
+            These events are triggered when the user interacts with the mouse. Some common mouse events include :
+            click,
+            mousedown,
+            mouseup,
+            mousemove,
+            mouseover
+            mouseout
+
+            Keyboard events:
+            These events are triggered when the user presses or releases a key on the keyboard. Some common keyboard events include
+            keydown,
+            keypress,
+            keyup.
+
+            Form events:
+            These events are triggered when the user interacts with a form element. Some common form events include
+            focus,
+            blur,
+            change,
+            submit.
+
+            Window events:
+            These events are triggered when the window changes size, scrolls, or is unloaded. Some common window events include 
+            resize,
+            scroll,
+            unload.
+            Document events: These events are triggered when the document loads, unloads, or changes content. Some common document events include load, unload, and DOMContentLoaded.
+            Media events: These events are triggered when media content plays, pauses, or ends. Some common media events include play, pause, and ended.
+            
+        */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>
