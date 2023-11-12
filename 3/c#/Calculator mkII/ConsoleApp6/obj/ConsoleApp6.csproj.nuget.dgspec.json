@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muneeb Usmani\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {}
+    "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muneeb Usmani\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj": {
+    "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muneeb Usmani\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectUniqueName": "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj",
         "projectName": "ConsoleApp6",
-        "projectPath": "C:\\Users\\Muneeb Usmani\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
-        "packagesPath": "C:\\Users\\Muneeb Usmani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muneeb Usmani\\source\\repos\\ConsoleApp6\\ConsoleApp6\\obj\\",
+        "projectPath": "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Muneeb Usmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
