@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "F5Z2D3IB/EY3/R3Cv63o67V2N/djBfl7Y9Sg6hWEkMtIYiqYpOZ39sMri3cs2EDSISzHcVW0qOcLj2Z1bvha/A==",
+  "dgSpecHash": "OTk5Ncuqq02mKU+LlT7uyM5Jjjbkf/zwaE9AK9agOVhZ+o87bHWWA0uLhjvSWDNqueriiQypgAyUBTrcpO4sxQ==",
   "success": true,
-  "projectFilePath": "/com.docker.devenvironments.code/Template/Template.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Muneeb\\source\\repos\\coding\\3\\c#\\Template\\Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muneeb\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Muneeb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Muneeb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\Muneeb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
