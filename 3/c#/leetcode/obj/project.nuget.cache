@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wcHH46Xo9tPb9Y76HvbK7+mgeu1IReQt79xSxP8IuxWV2Vlv7gTsFMrQOnOdrai3d3HleRGd12uEG6uyk5E0ug==",
+  "dgSpecHash": "rRY7IYl167T9S3v+QssZK4KSRIJyShiJiXBVNZQvHaXPSAzCFjNj2JrhPtzkOZjqn7vBPQyoGf3nBHgk17ndzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\leetcode\\leetcode.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/muneeb/coding/3/c#/leetcode/leetcode.csproj",
+  "expectedPackageFiles": [
+    "/home/muneeb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

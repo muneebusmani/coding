@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj": {}
+    "/home/muneeb/coding/3/c#/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj": {}
   },
   "projects": {
-    "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj": {
+    "/home/muneeb/coding/3/c#/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj",
+        "projectUniqueName": "/home/muneeb/coding/3/c#/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj",
         "projectName": "ConsoleApp6",
-        "projectPath": "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/com.docker.devenvironments.code/Calculator mkII/ConsoleApp6/obj/",
+        "projectPath": "/home/muneeb/coding/3/c#/Calculator mkII/ConsoleApp6/ConsoleApp6.csproj",
+        "packagesPath": "/home/muneeb/.nuget/packages/",
+        "outputPath": "/home/muneeb/coding/3/c#/Calculator mkII/ConsoleApp6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/muneeb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/linuxbrew/.linuxbrew/Cellar/dotnet/8.0.0/libexec/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

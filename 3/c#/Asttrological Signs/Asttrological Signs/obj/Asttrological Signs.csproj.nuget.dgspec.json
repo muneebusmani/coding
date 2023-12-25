@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\Asttrological Signs\\Asttrological Signs\\Asttrological Signs.csproj": {}
+    "/home/muneeb/coding/3/c#/Asttrological Signs/Asttrological Signs/Asttrological Signs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\Asttrological Signs\\Asttrological Signs\\Asttrological Signs.csproj": {
+    "/home/muneeb/coding/3/c#/Asttrological Signs/Asttrological Signs/Asttrological Signs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\Asttrological Signs\\Asttrological Signs\\Asttrological Signs.csproj",
+        "projectUniqueName": "/home/muneeb/coding/3/c#/Asttrological Signs/Asttrological Signs/Asttrological Signs.csproj",
         "projectName": "Asttrological Signs",
-        "projectPath": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\Asttrological Signs\\Asttrological Signs\\Asttrological Signs.csproj",
-        "packagesPath": "C:\\Users\\munee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\Asttrological Signs\\Asttrological Signs\\obj\\",
+        "projectPath": "/home/muneeb/coding/3/c#/Asttrological Signs/Asttrological Signs/Asttrological Signs.csproj",
+        "packagesPath": "/home/muneeb/.nuget/packages/",
+        "outputPath": "/home/muneeb/coding/3/c#/Asttrological Signs/Asttrological Signs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\munee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/muneeb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -54,12 +54,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

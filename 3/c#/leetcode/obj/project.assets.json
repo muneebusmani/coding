@@ -8,33 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\munee\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/muneeb/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\leetcode\\leetcode.csproj",
+      "projectUniqueName": "/home/muneeb/coding/3/c#/leetcode/leetcode.csproj",
       "projectName": "leetcode",
-      "projectPath": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\leetcode\\leetcode.csproj",
-      "packagesPath": "C:\\Users\\munee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\munee\\source\\repos\\coding\\3\\c#\\leetcode\\obj\\",
+      "projectPath": "/home/muneeb/coding/3/c#/leetcode/leetcode.csproj",
+      "packagesPath": "/home/muneeb/.nuget/packages/",
+      "outputPath": "/home/muneeb/coding/3/c#/leetcode/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\munee\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/muneeb/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -62,12 +54,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.0, 8.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

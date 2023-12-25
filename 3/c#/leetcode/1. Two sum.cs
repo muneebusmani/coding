@@ -47,5 +47,8 @@ namespace one{
         }
         return new int[]{0,0};
     }
+        int[] nums = [3, 2, 4];
+        int target = 6;
+        TwoSum(nums, target);
 }
 }

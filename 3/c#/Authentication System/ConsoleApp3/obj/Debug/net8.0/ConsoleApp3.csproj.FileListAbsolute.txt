@@ -1,0 +1,15 @@
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.deps.json
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.runtimeconfig.json
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.dll
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.pdb
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.AssemblyInfo.cs
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.sourcelink.json
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.dll
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/refint/ConsoleApp3.dll
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.pdb
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.genruntimeconfig.cache
+/home/muneeb/coding/3/c#/Authentication System/ConsoleApp3/obj/Debug/net8.0/ref/ConsoleApp3.dll
