@@ -1,3 +1,9 @@
 [submodule "sem-1/learnskills"]
 	path = sem-1/learnskills
 	url = https://github.com/muneebusmani/learn-skills
+[submodule "sem-1/o-link"]
+	path = sem-1/o-link
+	url = https://github.com/muneebusmani/o-link
+[submodule "sem-2/Lawyers-Website"]
+	path = sem-2/Lawyers-Website
+	url = https://github.com/muneebusmani/Lawyers-Website
