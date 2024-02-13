@@ -1,1 +1,0 @@
-These Files are Dynamically included into all Pages via function dedicated for each of them
