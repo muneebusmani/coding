@@ -7,3 +7,6 @@
 [submodule "sem-2/Lawyers-Website"]
 	path = sem-2/Lawyers-Website
 	url = https://github.com/muneebusmani/Lawyers-Website
+[submodule "sem-3/Nexus-Service-Marketing-System"]
+	path = sem-3/Nexus-Service-Marketing-System
+	url = https://github.com/muneebusmani/Nexus-Service-Marketing-System
