@@ -10,3 +10,6 @@
 [submodule "sem-3/Nexus-Service-Marketing-System"]
 	path = sem-3/Nexus-Service-Marketing-System
 	url = https://github.com/muneebusmani/Nexus-Service-Marketing-System
+[submodule "mern"]
+	path = mern
+	url = https://github.com/muneebusmani/mern
