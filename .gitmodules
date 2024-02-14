@@ -1,21 +1,6 @@
-[submodule "sem-1/learnskills"]
-	path = 1/learnskills
-	url = https://github.com/muneebusmani/learn-skills
-[submodule "sem-1/o-link"]
-	path = 1/o-link
-	url = https://github.com/muneebusmani/o-link
-[submodule "sem-2/Lawyers-Website"]
-	path = sem-2/Lawyers-Website
-	url = https://github.com/muneebusmani/Lawyers-Website
-[submodule "sem-3/Nexus-Service-Marketing-System"]
-	path = sem-3/Nexus-Service-Marketing-System
-	url = https://github.com/muneebusmani/Nexus-Service-Marketing-System
 [submodule "mern"]
-	path = mern
-	url = https://github.com/muneebusmani/mern
-[submodule "sem-3/practice"]
-	path = sem-3/practice
-	url = https://github.com/muneebusmani/practice
+  path = mern
+  url = https://github.com/muneebusmani/mern
 [submodule "1/learnskills"]
 	path = 1/learnskills
 	url = https://github.com/muneebusmani/learn-skills
