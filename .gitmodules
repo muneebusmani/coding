@@ -13,3 +13,6 @@
 #[submodule "3/Nexus-Service-Marketing-System"]
 #	path = 3/Nexus-Service-Marketing-System
 #	url = https://github.com/muneebusmani/Nexus_Communication-eproject-
+[submodule "3/Nexus-Service-Marketing-System"]
+	path = 3/Nexus-Service-Marketing-System
+	url = https://github.com/muneebusmani/Nexus-Service-Marketing-System
