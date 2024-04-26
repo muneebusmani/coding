@@ -10,6 +10,6 @@
 [submodule "2/Lawyers-Website"]
 	path = 2/Lawyers-Website
 	url = https://github.com/muneebusmani/Lawyers-Website
-[submodule "3/Nexus-Service-Marketing-System"]
-	path = 3/Nexus-Service-Marketing-System
-	url = https://github.com/muneebusmani/Nexus_Communication-eproject-
+#[submodule "3/Nexus-Service-Marketing-System"]
+#	path = 3/Nexus-Service-Marketing-System
+#	url = https://github.com/muneebusmani/Nexus_Communication-eproject-
